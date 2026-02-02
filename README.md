@@ -6,7 +6,7 @@
   </a>
 </p>
 
-This is for workflow template of the systemPipeR Workflow Management System (WMS).
+This is a workflow template for the systemPipeR Workflow Management System (WMS).
 Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-chipseq-02-14-04/systemPipeChIPseq.html).
 
 To learn how to design, set up, and run workflows using systemPipeR, users want to consult the official user manuals:
